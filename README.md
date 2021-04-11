@@ -3,6 +3,15 @@
 
 Allows management of kvm virtual machines via ssh and virsh.  Feel free to convert this project to libvirt apis.  Registered servers via creds.json should be limited to 14 servers, each server can display any number of virtual machines with scroll bar.  Management options for each vm includes: FORCE SHUTDOWN, SHUTDOWN, SUSPEND, numpad keys, and arrow keys.  VMs do not update in real time and a refresh will be triggered when moving through the menus.
 
+Main Menu/ Server Selection
+![Pic](ReadMePictures/20210410_183652.jpg?raw=true "Title")
+
+Virtual Machine Selection
+![Pic](ReadMePictures/20210410_183438.jpg?raw=true "Title")
+
+Virtual Machine Options
+![Pic](ReadMePictures/20210410_183707.jpg?raw=true "Title")
+
 ## Setup
 
 ```
