@@ -50,4 +50,4 @@ credentials can be modified in creds.json
 
 ## Thanks
 
-Thanks to all those who made this possible with simple to use python packages.
+Thanks to all those who made this possible with simple to use python packages.  If I missed any license or credits, please let me know and I'll add them here.
