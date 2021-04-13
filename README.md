@@ -56,7 +56,7 @@ up to 14 credentials can be added
         "user": "root",             
         "pass": "1234",             
         "port": 22,                 
-        "manufacture": "amd",       
+        "manufacture": "intel",       
         "mac": "00:00:00:00:00:00"}
 }
 ```
