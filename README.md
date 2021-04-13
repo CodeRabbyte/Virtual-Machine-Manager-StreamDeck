@@ -42,6 +42,25 @@ credentials can be modified in creds.json
 }
 ```
 
+up to 14 credentials can be added
+```
+{"example":                      
+        {"ip": "0.0.0.0",        
+        "user": "root",           
+        "pass": "1234",           
+        "port": 22,                 
+        "manufacture": "amd",       
+        "mac": "00:00:00:00:00:00"},
+"example2":                         
+        {"ip": "0.0.0.0",           
+        "user": "root",             
+        "pass": "1234",             
+        "port": 22,                 
+        "manufacture": "amd",       
+        "mac": "00:00:00:00:00:00"}
+}
+```
+
 ## Usage
 
 ```
