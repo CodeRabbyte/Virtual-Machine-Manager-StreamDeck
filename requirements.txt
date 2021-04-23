@@ -1,0 +1,5 @@
+paramiko
+wakeonlan
+scp
+Pillow
+streamdeck
