@@ -15,11 +15,7 @@ Virtual Machine Options
 ## Setup
 
 ```
-pip3 install paramiko
-pip3 install wakeonlan
-pip3 install scp
-pip3 install Pillow
-pip3 install streamdeck
+pip3 install -r requirements.txt
 ```
 For more information on how to setup streamdeck with Linux: https://github.com/abcminiuser/python-elgato-streamdeck
 
